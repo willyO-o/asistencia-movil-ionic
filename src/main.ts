@@ -1,6 +1,7 @@
 import { createApp } from 'vue';
 import { createPinia } from 'pinia';
 import { IonicVue } from '@ionic/vue';
+import piniaPluginPersistedstate from 'pinia-plugin-persistedstate';
 
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/vue/css/core.css';
@@ -23,6 +24,9 @@ import router from './router';
 
 const app = createApp(App);
 const pinia = createPinia();
+
+// Agregar plugin de persistencia
+pinia.use(piniaPluginPersistedstate);
 
 app.use(pinia);
 app.use(IonicVue);

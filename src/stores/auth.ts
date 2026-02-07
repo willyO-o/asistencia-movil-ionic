@@ -75,4 +75,9 @@ export const useAuthStore = defineStore('auth', () => {
     checkAuthStatus,
     initialize,
   };
+}, {
+  persist: {
+    key: 'auth-store',
+    storage: localStorage,
+  },
 });
