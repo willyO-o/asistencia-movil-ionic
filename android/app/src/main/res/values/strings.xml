@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Control de Actividades</string>
+    <string name="title_activity_main">Control de Actividades</string>
+    <string name="package_name">com.empresa.asistencia</string>
+    <string name="custom_url_scheme">com.empresa.asistencia</string>
+</resources>
