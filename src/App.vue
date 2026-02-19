@@ -31,12 +31,12 @@ ion-toolbar {
 
 /* Variables globales de Ionic personalizadas */
 :root {
-  --ion-color-primary: #006c2e;
+  --ion-color-primary: #478aff;
   --ion-color-primary-rgb: 0, 108, 46;
   --ion-color-primary-contrast: #ffffff;
   --ion-color-primary-contrast-rgb: 255, 255, 255;
-  --ion-color-primary-shade: #005f28;
-  --ion-color-primary-tint: #1a7a43;
+  --ion-color-primary-shade: #236ef0;
+  --ion-color-primary-tint: rgb(38, 122, 74);
 
   --ion-color-secondary: #e19964;
   --ion-color-secondary-rgb: 225, 153, 100;

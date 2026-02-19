@@ -441,7 +441,7 @@ onMounted(() => {
 .actividad-nombre {
   font-size: 18px;
   font-weight: bold;
-  color: #006c2e;
+  color: #478aff;
   margin: 0 0 8px 0;
 }
 
@@ -489,7 +489,7 @@ onMounted(() => {
 .empty-state h3 {
   font-size: 20px;
   font-weight: bold;
-  color: #006c2e;
+  color: #478aff;
   margin: 0 0 8px 0;
 }
 

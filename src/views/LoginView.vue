@@ -142,7 +142,7 @@ const handleLogin = async () => {
 .title {
   font-size: 32px;
   font-weight: bold;
-  color: #006c2e;
+  color: #478aff;
   margin-bottom: 8px;
 }
 
@@ -172,7 +172,7 @@ const handleLogin = async () => {
 }
 
 .login-button {
-  --background: #006c2e;
+  --background: #478aff;
   --border-radius: 12px;
   --box-shadow: 0 4px 12px rgba(0, 108, 46, 0.3);
   font-size: 20px;

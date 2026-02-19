@@ -157,7 +157,7 @@ onMounted(() => {
 .title {
   font-size: 24px;
   font-weight: bold;
-  color: #006c2e;
+  color: #478aff;
   margin: 0 0 4px 0;
 }
 
@@ -209,7 +209,7 @@ onMounted(() => {
 .record-time {
   font-size: 20px;
   font-weight: 600;
-  color: #006c2e;
+  color: #478aff;
   margin-bottom: 4px;
 }
 
@@ -231,7 +231,7 @@ onMounted(() => {
 .empty-state h3 {
   font-size: 20px;
   font-weight: bold;
-  color: #006c2e;
+  color: #478aff;
   margin: 0 0 8px 0;
 }
 

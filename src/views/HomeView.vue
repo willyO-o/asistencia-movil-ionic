@@ -100,7 +100,7 @@ const handleLogout = async () => {
 .user-name {
   font-size: 32px;
   font-weight: bold;
-  color: #006c2e;
+  color: #478aff;
   margin: 0;
 }
 
@@ -134,7 +134,7 @@ const handleLogout = async () => {
 .action-title {
   font-size: 16px;
   font-weight: bold;
-  color: #006c2e;
+  color: #478aff;
   margin: 0 0 4px 0;
 }
 

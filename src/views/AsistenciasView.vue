@@ -351,7 +351,7 @@ onMounted(() => {
 .stat-number {
   font-size: 24px;
   font-weight: bold;
-  color: #006c2e;
+  color: #478aff;
 }
 
 .stat-success {
@@ -414,14 +414,14 @@ onMounted(() => {
   height: 60px;
   border-radius: 30px;
   object-fit: cover;
-  border: 2px solid #006c2e;
+  border: 2px solid #478aff;
 }
 
 .avatar-placeholder {
   width: 60px;
   height: 60px;
   border-radius: 30px;
-  background: #006c2e;
+  background: #478aff;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -495,7 +495,7 @@ onMounted(() => {
   display: block;
   font-size: 18px;
   font-weight: bold;
-  color: #006c2e;
+  color: #478aff;
 }
 
 .observation {
@@ -519,7 +519,7 @@ onMounted(() => {
 .empty-state h3 {
   font-size: 20px;
   font-weight: bold;
-  color: #006c2e;
+  color: #478aff;
   margin: 0 0 8px 0;
 }
 
